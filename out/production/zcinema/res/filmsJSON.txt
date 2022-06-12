@@ -1,0 +1,1 @@
+{"Titanic":{"trailer":"https:\/\/www.youtube.com\/watch?v=2e-eXJ6HgkQ","time1":"20:00","time2":"19:00","time3":"hh:mm","endDate":"2018-01-18","description":"A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.","title":"Titanic","startDate":"2018-01-05"}}
