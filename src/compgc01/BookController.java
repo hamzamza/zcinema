@@ -17,6 +17,7 @@ import java.net.URL;
 import java.util.ResourceBundle;
 
 public class BookController implements Initializable {
+    HBox hb = new HBox();
 
     Label title;
     Label screen,one,two,three,four,five,six,seven,eight,nine,ten;
@@ -476,6 +477,7 @@ public class BookController implements Initializable {
         mainVB.getChildren().addAll(title,mainHB);
 
         //set scene and show
+
     }
 }
 

@@ -68,6 +68,5 @@
          </font>
       </Text>
       <Button fx:id="bookButton" layoutX="552.0" layoutY="337.0" mnemonicParsing="false" onAction="#goToBookingScene" prefHeight="40.0" prefWidth="126.0" style="-fx-background-color: white;" text="Book Now" />
-      <Button fx:id="deleteFilmButton" layoutX="552.0" layoutY="289.0" mnemonicParsing="false" onAction="#deleteFilm" prefHeight="40.0" prefWidth="126.0" style="-fx-background-color: white;" text="Delete Film" />
    </children>
 </AnchorPane>

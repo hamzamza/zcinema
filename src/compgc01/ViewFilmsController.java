@@ -82,8 +82,7 @@ public class ViewFilmsController implements Initializable {
             }
         }
         catch(Exception e) {
-            System.out.println("the error is here");
-        }}
+e.printStackTrace();        }}
 
     /**
 	 * Method that adds ImageView nodes to a GridPane

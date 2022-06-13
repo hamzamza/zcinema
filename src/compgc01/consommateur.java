@@ -6,11 +6,11 @@ package compgc01;
  * @author Team 3: Filippos Zofakis and Lucio D'Alessandro
  * @since 07.11.2017
  */
-public class Customer extends User {
+public class consommateur extends User {
 
     private double accountBalance;
     
-    public Customer(String firstName, String lastName, String username, String password, String email, double startingBalance) {
+    public consommateur(String firstName, String lastName, String username, String password, String email, double startingBalance) {
         super(firstName, lastName, username, password, email);
         this.accountBalance = startingBalance;
     }
