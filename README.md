@@ -2,10 +2,11 @@ Gestion Billetterie d’un
 Cinéma
 
                 Réalisée par :                                                        
-                                            
+                          
+                          Hamza Douaij
                          Abdelwahed Fanan                       
                          Manal Afa
-                         Hamza Douaji
+                         
 
 
                         Encadrée par :       
